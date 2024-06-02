@@ -1,71 +1,32 @@
-# Getting Started with Create React App
+# CatchLiars_backend
+# 🎮 재미있는 미니 게임을 해봐요 🎮
+![메인2](https://github.com/gusnl88/CatchLiars_backend/assets/108084021/24588bfc-a91b-4f41-b5f7-4feb1fdb4253)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 📌프로젝트(2024.04.19 ~ 2024.05.08 약 3주)
+### 소개
+- 여러 유저들과 채팅을 주고받으며 2가지의 게임을 즐겨보세요
+- 친구를 초대하여 같이 게임을 즐길 수 있어요
+- 마피아 게임: 8명의 참여자들 중 숨어있는 2명의 마피아👻를 찾아보세요
+- 캐치라이어: 그림을 이어그려 1명의 라이어👻를 찾아보세요
+- 점수를 높게 쌓으면 순위를 기록할 수 있답니다!
 
-In the project directory, you can run:
+### 조원 소개
+|<img src="https://avatars.githubusercontent.com/u/119268116?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/116572564?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154948725?v=5" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/108084021?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/133863745?v=4" width="150" height="150"/>
+|:-:|:-:|:-:|:-:|:-:|
+|**김봉현**(팀장)<br/>[@gusnl88](https://github.com/gusnl88)|**권오진**<br/>[@ohjin5](https://github.com/ohjin5)|**권태현**<br/>[@Matryoshkaaaa](https://github.com/Matryoshkaaaa)|**김화영**<br/>[@dotoritoring](https://github.com/dotoritoring)|**문민아**<br/>[@MoonMinah](https://github.com/MoonMinah)
+|**FE**|**FE**|**FE**|**BE**|**BE**|
 
-### `npm start`
+## 📌시연 영상
+https://github.com/gusnl88/CatchLiars_backend/assets/108084021/b32ce06a-895a-4520-89a0-2cf3084789f6
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📌기술스택
+![13기술스택](https://github.com/gusnl88/CatchLiars_backend/assets/108084021/5492dc47-fd23-402c-becf-75db875ae3d0)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📌ERD
+![erd](https://github.com/gusnl88/CatchLiars_backend/assets/108084021/2a7da73f-cec8-4296-8b24-a4651f8a5472)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# CatchLiars_front
